@@ -261,6 +261,11 @@ main > section{
         margin-top: 20px;
         margin-bottom: 20px;
     }
+    .footer-container{
+        width: 100%;
+        justify-content: center;
+        margin: 0;
+    }
 } 
 
 /* medium size device */
@@ -280,5 +285,10 @@ main > section{
     #experience-badge{
         margin-top: 20px;
         margin-bottom: 20px;
+    }
+    .footer-container{
+        width: 100%;
+        justify-content: center;
+        margin: 0;
     }
 }
