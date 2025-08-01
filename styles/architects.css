@@ -221,6 +221,19 @@ main > section{
 .sponsor-companies > img{
     filter: grayscale(100%);
 }
+.icon-container{
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.icon-container img{
+    width: 36px;
+    height: 36px;
+}
 
 /* footer related styles */
 
